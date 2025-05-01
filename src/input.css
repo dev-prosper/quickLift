@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.contain{
+    @apply max-w-[1440px] mx-auto
+}
+
+/* .contain{
+    max-width: 1440px;
+    margin: 0 auto;
+} */
